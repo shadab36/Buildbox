@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44390" started-at="2018-01-31T06:39:37Z" finished-at="2018-01-31T06:40:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44390" started-at="2018-01-31T06:39:37Z" finished-at="2018-01-31T06:40:22Z">
+      <class name="desktopapp.Buildbox">
+        <test-method status="PASS" signature="desktop_app()[pri:0, instance:desktopapp.Buildbox@6536e911]" name="desktop_app" duration-ms="44353" started-at="2018-01-31T12:09:37Z" finished-at="2018-01-31T12:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desktop_app -->
+      </class> <!-- desktopapp.Buildbox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
